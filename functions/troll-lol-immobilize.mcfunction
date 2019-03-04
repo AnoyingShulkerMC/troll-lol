@@ -1,1 +1,1 @@
-effect @a[rm=2 slowness 10 255
+effect @a[rm=2] slowness 10 255
