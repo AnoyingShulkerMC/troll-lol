@@ -1,0 +1,19 @@
+{
+    "format-version": 1,
+    "header": {
+        "description":"A trolling pack. More information: function troll-lol-help",
+        "name":"Troll Lol",
+        "uuid":"de32154b-0991-4c41-b404-6c6d9a362322",
+        "min_engine_version":[1,9,0],
+        "version":[0,0,0]
+    },
+    "min_engine_version":[1.9.0],
+    "modules":[
+        {
+            "description":"A trolling pack. More information: function troll-lol-help",
+            "type":"data",
+            "uuid":"3b04ed60-15b0-47ae-9592-abcd0e504e12",
+            "version":[0,0,0]
+        }
+    ]    
+}
