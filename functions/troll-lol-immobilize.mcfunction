@@ -1,1 +1,1 @@
-effect give @a slowness 10 255
+effect @a slowness 10 255
